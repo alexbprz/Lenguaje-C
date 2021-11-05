@@ -1,8 +1,8 @@
 /*
-	Name: Programa 7 (Venta de Sillas)
-	Author: Alejandro Bulos PÈrez
+	Name: Venta de Sillas
+	Author: Alejandro Bulos P√©rez
 	Date: 12/03/21 18:42
-	Description: programa que realiza el c·lculo de cuantas sillas se vendieron e imprime factura
+	Description: programa que realiza el c√°lculo de cuantas sillas se vendieron e imprime factura
 */
 
 #include<stdio.h>
